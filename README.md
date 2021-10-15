@@ -1,7 +1,5 @@
 # Всем привет, меня зовут Владимир:wave: #
 
----
-
 ## Немного о себе ##
 
 В 2020 году понял, что хочу сменить профессию и стать Frontend разработчиком.
@@ -21,9 +19,3 @@
 
 ### :hammer: Мой стек: ###
 ![HTML5](image/html.png) ![CSS3](image/css.png) ![JavaScript](image/js.png) ![Webpack](image/webpack.png) ![Node.js](image/node.png) ![React.js](image/react.png) ![Git](image/git.png) ![Figma](image/figma.png)
-
-
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
-
- 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
