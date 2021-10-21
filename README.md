@@ -21,6 +21,6 @@
 ![HTML5](image/html.png) ![CSS3](image/css.png) ![JavaScript](image/js.png) ![Webpack](image/webpack.png) ![Node.js](image/node.png) ![React.js](image/react.png) ![Git](image/git.png) ![Figma](image/figma.png)
 
 ---
-### Связаться со мной:
+### Моя почта:
 
 :e-mail: vkashankov@yandex.ru
